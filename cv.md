@@ -4,15 +4,15 @@
 
 - Phone: +380-66-56-77-149
 - Email: kristuwa15@ukr.net
-- [Telegram:](t.me/@kriskrasovska)
-- [Linkedin:](https://www.linkedin.com/in/khrystyna-krasovska/)
-- [GitHub:](https://github.com/kristuwa)
+- [Telegram](t.me/@kriskrasovska)
+- [Linkedin](https://www.linkedin.com/in/khrystyna-krasovska/)
+- [GitHub](https://github.com/kristuwa)
 
 ## About me
 
 I'm an enthusiastic and detail-oriented Frontend Software Engineer seeking an entry-level position with Company to use my skills in coding, troubleshooting complex problems, and assisting in the timely completion of projects. I participated in a hackathon, bootcamp, practice in the field HTML, CSS, JavaScript.
 
-## Tech Skills
+## Skills
 
 - HTML5
 - CSS3/SASS
@@ -43,7 +43,7 @@ return newArr[i];
 
 ```
 
-## Projects
+## Experience
 
 [Barbershop](https://kristuwa.github.io/barbershop/) [GitHub Link](https://github.com/Kristuwa/barbershop) (HTML, SASS, JS, Parcel)
 A website with a responsive layout for BarberShop.
