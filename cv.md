@@ -2,13 +2,11 @@
 
 ## Contacts
 
-- Phone +380-66-56-77-149
-
-* Email kristuwa15@ukr.net
-
-- Telegram [t.me/@KrisKrasovska]
-- Linkedin [https://www.linkedin.com/in/khrystyna-krasovska/]
-- GitHub [https://github.com/Kristuwa]
+- Phone: +380-66-56-77-149
+- Email: kristuwa15@ukr.net
+- [Telegram:][t.me/@kriskrasovska]
+- [Linkedin:][https://www.linkedin.com/in/khrystyna-krasovska/]
+- [GitHub:][https://github.com/kristuwa]
 
 ## About me
 
@@ -44,3 +42,17 @@ return newArr[i];
  }
 
 ```
+
+## Courses
+
+- IT School GoIT
+
+* FullStack Developer (May 2022 – by now | Ukraine)
+
+- FreeCodeCamp
+
+* JavaScript Developer (November 2022)
+
+- The educational program "IT Nation 2020" on the platform "Codifun"
+
+* Advanced Frontend Web Developer (April 2020 – September 2020 | Ukraine)
