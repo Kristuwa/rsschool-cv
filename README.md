@@ -1,1 +1,1 @@
-https://kristuwa.github.io/rsschool-cv/cv
+https://Kristuwa.github.io/rsschool-cv/cv
