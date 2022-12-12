@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta charset="UTF-8" />
-    <meta name="description" content="Free Web tutorials" />
-    <meta name="keywords" content="HTML, CSS" />
-    <meta name="author" content="Kristi Krasovska" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta charset="UTF-8">
+    <meta name="description" content="Free Web tutorials">
+    <meta name="keywords" content="HTML, CSS">
+    <meta name="author" content="Kristi Krasovska">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>My CV</title>
-    <link rel="stylesheet" href="./styles/style.css" />
+    <link rel="stylesheet" href="./styles/style.css">
   </head>
   <body>
     <header>
@@ -34,7 +34,7 @@
     <main>
       <section class="wrapper">
         <aside class="sidebar">
-          <img class="photo" src="./images/my-photo.jpg" alt="my photo" />
+          <img class="photo" src="./images/my-photo.jpg" alt="my photo">
           <div class="main-container">
             <!--Contacts container-->
             <div class="contacts">
@@ -324,6 +324,25 @@
             </ul>
           </div>
 
+          <!--code example-->
+          <div class="code">
+            <h3 class="title">Code Example</h3>
+            <pre><code>function fearNotLetter(str) {
+	const baseArr = "abcdefghijklmnopqrstuvwxyz".split("");
+	const arr = str.split("");
+	const letter = arr.find((elem) => baseArr.includes(elem));
+	const index = baseArr.indexOf(letter);
+	const newArr = baseArr.slice(index, index + arr.length);
+	
+		for (let i = 0; i &lt; arr.length; i += 1) {
+			if (arr[i] !== newArr[i]) {
+				return newArr[i];
+		 	}
+		}
+		return undefined;
+	}</code>
+				</pre>
+          </div>
           <!--work experience-->
           <div id="work">
             <h3 class="title">Work Experience</h3>
@@ -437,7 +456,6 @@
           href="https://github.com/Kristuwa"
           rel="noopener nofollow noreferrer"
           target="_blank"
-          rel="noopener noreferrer nofollow"
           >Khrystyna Krasovska</a
         >
       </p>
