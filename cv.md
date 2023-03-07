@@ -71,7 +71,7 @@ Role: Team Lead.
 Build project on github, check for build errors and live page performance.
 
 [Phonebook](https://kristuwa.github.io/goit-react-hw-08-phonebook/) [GitHub Link](https://github.com/Kristuwa/goit-react-hw-08-phonebook) (React, Redux)
-A website with a responsive layout for Business Company.
+A web-application are using in the phone to add new contact to your phonebook.
 Role: Team Lead.
 Build project on github, check for build errors and live page performance.
 
