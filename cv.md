@@ -22,6 +22,8 @@ I'm an enthusiastic and detail-oriented Frontend Software Engineer seeking an en
 - Parcel
 - WebPack
 - GIT
+- React
+- Redux
 
 ## Code Example
 
