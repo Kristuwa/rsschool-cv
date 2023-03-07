@@ -70,6 +70,11 @@ A website with a responsive layout for Business Company.
 Role: Team Lead.
 Build project on github, check for build errors and live page performance.
 
+[Phonebook](https://kristuwa.github.io/goit-react-hw-08-phonebook/) [GitHub Link](https://github.com/Kristuwa/goit-react-hw-08-phonebook) (React, Redux)
+A website with a responsive layout for Business Company.
+Role: Team Lead.
+Build project on github, check for build errors and live page performance.
+
 ## Courses
 
 - IT School GoIT - FullStack Developer (May 2022 – by now, Ukraine)
