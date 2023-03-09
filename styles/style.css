@@ -1,3 +1,318 @@
-body {
-	background-color: #000000;
-}
+
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+ }
+ 
+ body {
+	background: #f5f7fa;
+	padding: 40px 20px;
+	max-width: 1200px;
+	font-family: Montserrat;
+	margin-left: auto;
+	margin-right: auto;
+ }
+ 
+ .list {
+	list-style: none;
+ }
+ 
+ nav {
+	margin: 0 auto;
+ }
+ 
+ .nav-list {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin: 0 auto;
+ }
+ 
+ .nav-list li:first-child {
+	margin-left: 10px;
+	margin-right: 70px;
+ }
+ 
+ .nav-link {
+	font-family: inherit;
+	font-size: 18px;
+	font-weight: 700;
+	line-height: 24px;
+	color: inherit;
+	text-decoration: none;
+ }
+ 
+ .nav-link.logo {
+	display: block;
+ }
+ 
+ .nav-link.logo::after {
+	content: "";
+	display: inline-flex;
+	width: 65px;
+	height: 55px;
+	background-image: url(../images/logo.svg);
+ }
+ 
+ a:hover,
+ a:focus {
+	color: #464646;
+ }
+ 
+ .wrapper {
+	background: #ffffff;
+	display: flex;
+	margin: 0 auto;
+	box-shadow: 5px 9px 20px rgb(0, 0, 0, 15);
+ }
+ 
+ .sidebar {
+	background: #1e2939;
+	width: 370px;
+	padding-top: 40px;
+	padding-bottom: 40px;
+ }
+ 
+ .photo {
+	width: 370px;
+ }
+ 
+ .mcontainer {
+	padding: 110px 90px;
+ }
+ 
+ .contacts {
+	margin-top: 60px;
+	margin-left: 40px;
+	margin-right: 40px;
+ }
+ 
+ .contacts-title {
+	font-size: 22px;
+	font-weight: 700;
+	line-height: 24px;
+	color: #ffffff;
+	margin-bottom: 20px;
+ }
+ 
+ .link {
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 24px;
+	color: #aeb2b7;
+	margin-right: 10px;
+ }
+ 
+ .span {
+	font-size: 14px;
+	font-weight: 700;
+	line-height: 24px;
+	color: #ffffff;
+	margin-right: 10px;
+ }
+ 
+ .tech-skills-title {
+	font-size: 22px;
+	font-weight: 700;
+	line-height: 24px;
+	margin-bottom: 20px;
+	color: #ffffff;
+ }
+ 
+ .tech-skills {
+	margin-left: 40px;
+	margin-right: 40px;
+	margin-top: 35px;
+ }
+ 
+ .tech-li {
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 24px;
+	color: #ff6b08;
+	margin-left: 15px;
+ }
+ 
+ .text {
+	color: #aeb2b7;
+ }
+ 
+ .soft-skills {
+	margin-left: 40px;
+	margin-right: 40px;
+	margin-top: 35px;
+ }
+ .soft_skills-title {
+	font-size: 22px;
+	font-weight: 700;
+	line-height: 24px;
+	color: #ffffff;
+	margin-bottom: 20px;
+ }
+ 
+ .skills-li {
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 24px;
+	color: #ff6b08;
+	margin-left: 15px;
+ }
+ 
+ .text_skills {
+	color: #aeb2b7;
+ }
+ 
+ .profession {
+	font-size: 14px;
+	font-weight: 700;
+	line-height: 24px;
+	margin-bottom: 25px;
+	text-align: center;
+ }
+ 
+ .name {
+	font-size: 45px;
+	font-weight: 700;
+	line-height: 89px;
+	text-align: center;
+ }
+ 
+ .description {
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 24px;
+ }
+ 
+ .about-link {
+	color: currentColor;
+ }
+ 
+ .info {
+	margin-bottom: 35px;
+ }
+ 
+ .title {
+	font-size: 22px;
+	font-weight: 700;
+	line-height: 24px;
+	margin-bottom: 20px;
+	text-align: center;
+ }
+ 
+ .projects-link {
+	color: #595959;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 24px;
+ }
+ 
+ .projects-item + .projects-item {
+	margin-top: 10px;
+ }
+ 
+ .code {
+	margin: 0;
+	padding: 0;
+	margin-bottom: 30px;
+ }
+ 
+ .tech-name {
+	color: #595959;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 24px;
+ }
+ 
+ .dots {
+	color: #bebebe;
+	font-weight: 100;
+ }
+ 
+ .projects-item {
+	font-weight: 700;
+	margin-left: 17px;
+ }
+ 
+ .projects-container {
+	margin-bottom: 55px;
+ }
+ 
+ .profession-title {
+	font-size: 16px;
+	font-weight: 700;
+	line-height: 24px;
+	margin-top: 10px;
+	margin-bottom: 15px;
+ }
+ 
+ .slash {
+	color: #000000;
+ }
+ 
+ .prof {
+	color: #ff7011;
+ }
+ 
+ .prof-time {
+	color: #a8a8a8;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 24px;
+	margin-bottom: 14px;
+ }
+ 
+ .profession-duties {
+	margin-top: 14px;
+	margin-bottom: 30px;
+ }
+ .duties-item {
+	color: #595959;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 24px;
+ }
+ 
+ .univer {
+	color: #ff6b08;
+	font-size: 16px;
+	font-weight: 700;
+	line-height: 24px;
+	margin-top: 15px;
+	margin-bottom: 10px;
+ }
+ 
+ .spec {
+	font-size: 14px;
+	font-weight: 700;
+	line-height: 24px;
+ }
+ 
+ .univer-time {
+	color: #a8a8a8;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 24px;
+ }
+ 
+ .footer {
+	display: flex;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	justify-content: space-between;
+	align-items: center;
+ }
+ 
+ .footer-text {
+	font-size: 16px;
+	text-align: center;
+	margin-bottom: 10px;
+ }
+ 
+ .footer-link.logo::after {
+	content: "";
+	display: inline-flex;
+	width: 80px;
+	height: 40px;
+	background-image: url(../images/logo_rs_text.svg);
+ }
