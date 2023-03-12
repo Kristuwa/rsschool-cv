@@ -22,6 +22,8 @@ I'm an enthusiastic and detail-oriented Frontend Software Engineer seeking an en
 - Parcel
 - WebPack
 - GIT
+- React
+- Redux
 
 ## Code Example
 
@@ -67,6 +69,11 @@ Build project on github, check for build errors and live page performance.
 
 [Land](https://kristuwa.github.io/Land/) [GitHub Link](https://github.com/Kristuwa/Land/) (HTML, SASS, JS, Parcel)
 A website with a responsive layout for Business Company.
+Role: Team Lead.
+Build project on github, check for build errors and live page performance.
+
+[Phonebook](https://kristuwa.github.io/goit-react-hw-08-phonebook/) [GitHub Link](https://github.com/Kristuwa/goit-react-hw-08-phonebook) (React, Redux)
+A web-application are using in the phone to add new contact to your phonebook.
 Role: Team Lead.
 Build project on github, check for build errors and live page performance.
 
